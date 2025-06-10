@@ -1,4 +1,4 @@
-# ExpressChats 💬
+# QuickChats 💬
 
 A simple full-stack chat message manager inspired by WhatsApp, built using **Node.js**, **Express.js**, **MongoDB**, and **EJS**. It supports creating, viewing, editing, and deleting chat messages in a user-friendly interface.
 
